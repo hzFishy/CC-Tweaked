@@ -26,10 +26,10 @@ for i=1,6 do -- i entre 1 et 6 car 6 faces
 end
 
 --[[
-**Note importante:** 
+Note importante:
 > il faut obligatoirement que les signaux `signal = {15, 11, 13, 6, 9}` "existent" (*donc soit possible)*, si vous souhaitez avoir des signaux + ou - long il faut que vous modifier la liste `signal` en conséquence (pas d'ordre requis)
 
-__Pour avoir la force du signal d'un côté voici quoi faire:__
+Pour avoir la force du signal d'un côté voici quoi faire:
 1\ Poser un ordinateur
 2\ Faire la traîné de redstone avec "l’interrupteur"
 3\ Allumer la redstone
