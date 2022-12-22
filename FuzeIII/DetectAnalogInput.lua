@@ -15,7 +15,7 @@ sidesfr = {'à gauche', 'à droite', 'en haut', 'en bas', 'de face', 'derrière'
 signal = {15, 11, 13, 6, 9}
 
 -- lancement du script visuel
-print("Analizing...\n") -- décoratif
+print("Analyzing...\n") -- décoratif
 sleep(1) -- décoratif
 for i=1,6 do -- i entre 1 et 6 car 6 faces
 	for j=1,5 do -- j entre 1 et 5 car 5 signaux prédéfinis
