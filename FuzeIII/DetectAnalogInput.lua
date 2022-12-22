@@ -24,3 +24,17 @@ for i=1,6 do -- i entre 1 et 6 car 6 faces
 		end
 	end
 end
+
+--[[
+**Note importante:** 
+> il faut obligatoirement que les signaux `signal = {15, 11, 13, 6, 9}` "existent" (*donc soit possible)*, si vous souhaitez avoir des signaux + ou - long il faut que vous modifier la liste `signal` en conséquence (pas d'ordre requis)
+
+__Pour avoir la force du signal d'un côté voici quoi faire:__
+1\ Poser un ordinateur
+2\ Faire la traîné de redstone avec "l’interrupteur"
+3\ Allumer la redstone
+4\ dans le terminale de l'ordinateur écrire `lua` et appuyer sur ENTRER
+5\ écrire `redstone.getAnalogInput(<côté>)`, remplacer <côté> par le côté concerné par le test `('left', 'right','top','bottom','front','back')` et appuyer sur ENTRER
+6\ Regarder l'output
+7\ Si des ajustement de 2\ sont fait refaire 5\ et 6\ autant que nécessaire
+--]]
