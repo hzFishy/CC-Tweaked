@@ -2,4 +2,4 @@
 
 ## [DetectAnalogInput.lua](./DetectAnalogInput.lua) est un programme permettant de liés les signaux que reçoit un ordinateur avec ses faces 
 > Exemple
-![image](https://user-images.githubusercontent.com/84443782/209239543-99fe8036-e2d1-4140-a78e-4053f0fe0c85.png)
+![image](https://user-images.githubusercontent.com/84443782/209240404-9a1ec31b-690b-4b38-92af-f1676acdc679.png)
