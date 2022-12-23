@@ -1,2 +1,2 @@
 # ComputerCraft:Tweaked
-> Main Folder for my Computer Craft stuff
+> This is my main folder for my Computer Craft stuff
